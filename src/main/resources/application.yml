@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: food
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: food
+
+
